@@ -1,2 +1,7 @@
 # gatling-maven-demo
-Gatling with maven 
+Gatling with maven
+
+## Execute tests:
+```
+mvn gatling:test
+```
